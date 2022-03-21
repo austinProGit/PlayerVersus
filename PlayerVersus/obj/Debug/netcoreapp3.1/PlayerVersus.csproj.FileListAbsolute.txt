@@ -1,0 +1,14 @@
+C:\Users\Austin School\Desktop\PlayerVersus\PlayerVersus\obj\Debug\netcoreapp3.1\PlayerVersus.csproj.AssemblyReference.cache
+C:\Users\Austin School\Desktop\PlayerVersus\PlayerVersus\obj\Debug\netcoreapp3.1\PlayerVersus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Austin School\Desktop\PlayerVersus\PlayerVersus\obj\Debug\netcoreapp3.1\PlayerVersus.AssemblyInfoInputs.cache
+C:\Users\Austin School\Desktop\PlayerVersus\PlayerVersus\obj\Debug\netcoreapp3.1\PlayerVersus.AssemblyInfo.cs
+C:\Users\Austin School\Desktop\PlayerVersus\PlayerVersus\obj\Debug\netcoreapp3.1\PlayerVersus.csproj.CoreCompileInputs.cache
+C:\Users\Austin School\Desktop\PlayerVersus\PlayerVersus\bin\Debug\netcoreapp3.1\PlayerVersus.exe
+C:\Users\Austin School\Desktop\PlayerVersus\PlayerVersus\bin\Debug\netcoreapp3.1\PlayerVersus.deps.json
+C:\Users\Austin School\Desktop\PlayerVersus\PlayerVersus\bin\Debug\netcoreapp3.1\PlayerVersus.runtimeconfig.json
+C:\Users\Austin School\Desktop\PlayerVersus\PlayerVersus\bin\Debug\netcoreapp3.1\PlayerVersus.runtimeconfig.dev.json
+C:\Users\Austin School\Desktop\PlayerVersus\PlayerVersus\bin\Debug\netcoreapp3.1\PlayerVersus.dll
+C:\Users\Austin School\Desktop\PlayerVersus\PlayerVersus\bin\Debug\netcoreapp3.1\PlayerVersus.pdb
+C:\Users\Austin School\Desktop\PlayerVersus\PlayerVersus\obj\Debug\netcoreapp3.1\PlayerVersus.dll
+C:\Users\Austin School\Desktop\PlayerVersus\PlayerVersus\obj\Debug\netcoreapp3.1\PlayerVersus.pdb
+C:\Users\Austin School\Desktop\PlayerVersus\PlayerVersus\obj\Debug\netcoreapp3.1\PlayerVersus.genruntimeconfig.cache
